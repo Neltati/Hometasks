@@ -1,0 +1,8 @@
+D:\IJunior C#\ДЗ №1 Переменные\ДЗ №1 Переменные\obj\Debug\ДЗ №1 Переменные.csproj.AssemblyReference.cache
+D:\IJunior C#\ДЗ №1 Переменные\ДЗ №1 Переменные\obj\Debug\ДЗ №1 Переменные.csproj.SuggestedBindingRedirects.cache
+D:\IJunior C#\ДЗ №1 Переменные\ДЗ №1 Переменные\obj\Debug\ДЗ №1 Переменные.csproj.CoreCompileInputs.cache
+D:\IJunior C#\ДЗ №1 Переменные\ДЗ №1 Переменные\bin\Debug\ДЗ №1 Переменные.exe.config
+D:\IJunior C#\ДЗ №1 Переменные\ДЗ №1 Переменные\bin\Debug\ДЗ №1 Переменные.exe
+D:\IJunior C#\ДЗ №1 Переменные\ДЗ №1 Переменные\bin\Debug\ДЗ №1 Переменные.pdb
+D:\IJunior C#\ДЗ №1 Переменные\ДЗ №1 Переменные\obj\Debug\ДЗ №1 Переменные.exe
+D:\IJunior C#\ДЗ №1 Переменные\ДЗ №1 Переменные\obj\Debug\ДЗ №1 Переменные.pdb
