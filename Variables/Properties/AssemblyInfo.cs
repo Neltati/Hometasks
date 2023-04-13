@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // Общие сведения об этой сборке предоставляются следующим набором
 // набора атрибутов. Измените значения этих атрибутов для изменения сведений,
 // связанные с этой сборкой.
-[assembly: AssemblyTitle("ДЗ №1 Переменные")]
+[assembly: AssemblyTitle("Variables")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("ДЗ №1 Переменные")]
+[assembly: AssemblyProduct("Variables")]
 [assembly: AssemblyCopyright("Copyright ©  2023")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // Следующий GUID представляет идентификатор typelib, если этот проект доступен из модели COM
-[assembly: Guid("7b0ccb66-2ef6-4073-b79b-0a71a23a9c56")]
+[assembly: Guid("088df5c9-bf11-46da-8088-1bf456e6e6a7")]
 
 // Сведения о версии сборки состоят из указанных ниже четырех значений:
 //

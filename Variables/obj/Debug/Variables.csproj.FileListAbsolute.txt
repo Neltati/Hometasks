@@ -1,0 +1,8 @@
+D:\IJunior C#\Hometasks\1. Variables\Variables\Variables\bin\Debug\Variables.exe.config
+D:\IJunior C#\Hometasks\1. Variables\Variables\Variables\bin\Debug\Variables.exe
+D:\IJunior C#\Hometasks\1. Variables\Variables\Variables\bin\Debug\Variables.pdb
+D:\IJunior C#\Hometasks\1. Variables\Variables\Variables\obj\Debug\Variables.csproj.AssemblyReference.cache
+D:\IJunior C#\Hometasks\1. Variables\Variables\Variables\obj\Debug\Variables.csproj.SuggestedBindingRedirects.cache
+D:\IJunior C#\Hometasks\1. Variables\Variables\Variables\obj\Debug\Variables.csproj.CoreCompileInputs.cache
+D:\IJunior C#\Hometasks\1. Variables\Variables\Variables\obj\Debug\Variables.exe
+D:\IJunior C#\Hometasks\1. Variables\Variables\Variables\obj\Debug\Variables.pdb

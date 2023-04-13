@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ДЗ__1_Переменные
+namespace Variables
 {
     internal class Program
     {
@@ -20,7 +20,7 @@ namespace ДЗ__1_Переменные
             short targetDistance;
             long experience;
             string message;
-            bool targetAlive; 
+            bool targetAlive;
         }
     }
 }
